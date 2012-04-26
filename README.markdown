@@ -1,20 +1,20 @@
 REGEX Search Bookmarklet-
+==========================
 
-REGEX Search Bookmarklet lets your do a regular expressions search on any web-page.
+## <a href='https://github.com/pratyushmittal/Regex-Search-Bookmarklet/raw/master/bookmarklet.js'>RE-Find</a> - <== Bookmarklet ##
 
-To use it, just Drag & Drop <a href=''><b>"RE-Find"</b></a> (to your bookmarklets bar)
+<b>REGEX Search Bookmarklet lets your do a regular expressions search on any web-page.
+
+To use it, just Drag & Drop <a href='https://github.com/pratyushmittal/Regex-Search-Bookmarklet/raw/master/bookmarklet.js'>__RE-Find__</a> (to your bookmarklets bar)</b>
 
 *******
 Below are other details (if your are interested in code):
 *******
-<i>Modified from original Bookmarklet of D. Patrick Caldwell</i>
-http://dpatrickcaldwell.blogspot.in/2010/09/regular-expression-search-bookmarklet.html
+<i>Modified from the <a href='http://dpatrickcaldwell.blogspot.in/2010/09/regular-expression-search-bookmarklet.html'>original Bookmarklet of D. Patrick Caldwell</a></i>
 
-Compress using (Use Aggressive):
-http://fmarcia.info/jsmin/test.html
+<a href="http://coding.smashingmagazine.com/2010/05/23/make-your-own-bookmarklets-with-jquery/">Included jQuery</a>
 
-Include jQuery:
-http://coding.smashingmagazine.com/2010/05/23/make-your-own-bookmarklets-with-jquery/
+Did an aggressive compression using <a href="http://fmarcia.info/jsmin/test.html">JSMIN</a>.
 
-Bookmarklet:
-javascript:(function(){if(window.myBookmarklet!==undefined){myBookmarklet();}else{document.body.appendChild(document.createElement('script')).src='LINK-To-JS-File';}})();
+Created Bookmarklet using:
+    javascript:(function(){if(window.myBookmarklet!==undefined){myBookmarklet();}else{document.body.appendChild(document.createElement('script')).src='LINK-To-JS-File';}})();
