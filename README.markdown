@@ -1,7 +1,9 @@
 REGEX Search Bookmarklet-
 ==========================
 
-## <a href="javascript:(function(){if(window.myBookmarklet!==undefined){myBookmarklet();}else{document.body.appendChild(document.createElement('script')).src='https://github.com/pratyushmittal/Regex-Search-Bookmarklet/raw/master/bookmarklet.js';}})();">RE-Find</a> - <== Bookmarklet ##
+### <a href="#">RE-Find</a> (will fix link) - <== Bookmarklet ###
+
+    javascript:(function(){if(window.myBookmarklet!==undefined){myBookmarklet();}else{document.body.appendChild(document.createElement('script')).src='https://github.com/pratyushmittal/Regex-Search-Bookmarklet/raw/master/bookmarklet.js';}})();
 
 <b>REGEX Search Bookmarklet lets your do a regular expressions search on any web-page.</b>
 
